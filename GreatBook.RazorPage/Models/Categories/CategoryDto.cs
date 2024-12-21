@@ -12,12 +12,12 @@ public class CategoryDto : BaseDto
 
 public class SeoData
 {
-    public string? MetaTitle { get; private set; }
-    public string? MetaDescription { get; private set; }
-    public string? MetaKeyWords { get; private set; }
-    public bool IndexPage { get; private set; }
-    public string? Canonical { get; private set; }
-    public string? Schema { get; private set; }
+    public string? MetaTitle { get; set; }
+    public string? MetaDescription { get; set; }
+    public string? MetaKeyWords { get; set; }
+    public bool IndexPage { get; set; }
+    public string? Canonical { get; set; }
+    public string? Schema { get; set; }
 }
 
 public class ChildCategoryDto : BaseDto
