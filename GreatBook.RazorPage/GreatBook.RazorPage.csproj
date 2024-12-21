@@ -9,6 +9,14 @@
   <ItemGroup>
     <Folder Include="Infrastructure\" />
     <Folder Include="Models\Banners\" />
+    <Folder Include="Models\Categories\" />
+    <Folder Include="Models\Comments\" />
+    <Folder Include="Models\Orders\" />
+    <Folder Include="Models\Products\" />
+    <Folder Include="Models\Roles\" />
+    <Folder Include="Models\Sellers\" />
+    <Folder Include="Models\Sliders\" />
+    <Folder Include="Models\Users\" />
     <Folder Include="Services\" />
     <Folder Include="Services\Auth\" />
     <Folder Include="Services\Banners\" />
