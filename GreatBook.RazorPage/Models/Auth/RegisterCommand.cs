@@ -1,6 +1,6 @@
 
 
-namespace GreatBook.RazorPage.Models;
+namespace GreatBook.RazorPage.Models.Auth;
 
 public class RegisterCommand
 {
