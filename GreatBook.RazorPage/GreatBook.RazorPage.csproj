@@ -12,6 +12,7 @@
     <Folder Include="Models\Categories\" />
     <Folder Include="Models\Comments\" />
     <Folder Include="Models\Orders\" />
+    <Folder Include="Models\Orders\Commands\" />
     <Folder Include="Models\Products\" />
     <Folder Include="Models\Roles\" />
     <Folder Include="Models\Sellers\" />
