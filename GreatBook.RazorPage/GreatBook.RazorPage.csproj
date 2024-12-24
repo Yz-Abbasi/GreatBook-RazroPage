@@ -19,6 +19,8 @@
     <Folder Include="Models\Sellers\Commands\" />
     <Folder Include="Models\Sliders\" />
     <Folder Include="Models\Sliders\Commands\" />
+    <Folder Include="Models\UserAddresses\" />
+    <Folder Include="Models\UserAddresses\Commands\" />
     <Folder Include="Models\Users\" />
     <Folder Include="Models\Users\Commands\" />
     <Folder Include="Services\" />
