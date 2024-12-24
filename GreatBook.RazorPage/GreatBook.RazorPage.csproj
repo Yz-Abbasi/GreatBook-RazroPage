@@ -13,11 +13,14 @@
     <Folder Include="Models\Comments\" />
     <Folder Include="Models\Orders\" />
     <Folder Include="Models\Orders\Commands\" />
-    <Folder Include="Models\Products\" />
     <Folder Include="Models\Roles\" />
+    <Folder Include="Models\Roles\Commands\" />
     <Folder Include="Models\Sellers\" />
+    <Folder Include="Models\Sellers\Commands\" />
     <Folder Include="Models\Sliders\" />
+    <Folder Include="Models\Sliders\Commands\" />
     <Folder Include="Models\Users\" />
+    <Folder Include="Models\Users\Commands\" />
     <Folder Include="Services\" />
     <Folder Include="Services\Auth\" />
     <Folder Include="Services\Banners\" />
@@ -30,6 +33,10 @@
     <Folder Include="Services\Sliders\" />
     <Folder Include="Services\UserAddresses\" />
     <Folder Include="Services\Users\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
   </ItemGroup>
 
 </Project>
